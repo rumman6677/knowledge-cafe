@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/X2CJHKk/1.jpg",
+        "title": "Mastering JavaScript Top 10 ES6 Feature",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/yNXycQx/boy2.jpg",
+        "posted_date": "2024-10-10",
+        "reading_time": "12",
+        "hashtags" : [
+
+            "beginners",
+            "web"
+            ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/Mhq4fNf/2.png",
+        "title": "UX Design Basics A Fun introduction of Design",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co.com/SsCm60L/girl1.jpg",
+        "posted_date": "2024-09-25",
+        "reading_time": "6",
+        "hashtags" : [
+
+            "beginners",
+            "React"
+            ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/B3jCPTJ/3.png",
+        "title": "Understanding REST APIs You should learn about ",
+        "author": "Samuel Green",
+        "author_img": "https://i.ibb.co.com/9GYdtp3/girl2.jpg",
+        "posted_date": "2024-11-02",
+        "reading_time": "9",
+        "hashtags" : [
+
+               "beginners",
+               "es6"
+               ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/68kMqBJ/4.jpg",
+        "title": "Building Scalable Web Apps with Vite React Tailwind ",
+        "author": "Michael Scott",
+        "author_img": "https://i.ibb.co.com/rFT0DJk/profile.png",
+        "posted_date": "2024-09-15",
+        "reading_time": "10",
+        "hashtags" : [
+
+            "beginners",
+            "JS"
+            ]
+    }
+    
+]
+
